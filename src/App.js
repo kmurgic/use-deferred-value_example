@@ -1,24 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
+import ScrabbleWords from './ScrabbleWords';
 
 function App() {
+  const [text, setText] = useState('');
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Scrabble Word Finder</h1>
+      <p>
+        {'Enter a word or letters in the text box below and find a list of words '
+          + 'that can be formed by rearranging some or all of the letters.'}
+      </p>
+      <label>Find words: </label>
+      <input
+        value={text}
+        onChange={(e) => setText(e.target.value)}
+      />
+      <ScrabbleWords text={text} />
     </div>
   );
 }
