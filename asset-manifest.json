@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/use-deferred-value_example/static/css/main.760e8fad.chunk.css",
+    "main.js": "/use-deferred-value_example/static/js/main.f2beb882.chunk.js",
+    "main.js.map": "/use-deferred-value_example/static/js/main.f2beb882.chunk.js.map",
+    "runtime-main.js": "/use-deferred-value_example/static/js/runtime-main.210500b0.js",
+    "runtime-main.js.map": "/use-deferred-value_example/static/js/runtime-main.210500b0.js.map",
+    "static/js/2.8b6f3153.chunk.js": "/use-deferred-value_example/static/js/2.8b6f3153.chunk.js",
+    "static/js/2.8b6f3153.chunk.js.map": "/use-deferred-value_example/static/js/2.8b6f3153.chunk.js.map",
+    "index.html": "/use-deferred-value_example/index.html",
+    "precache-manifest.300b6d568f5de426d8c95353e8922ef9.js": "/use-deferred-value_example/precache-manifest.300b6d568f5de426d8c95353e8922ef9.js",
+    "service-worker.js": "/use-deferred-value_example/service-worker.js",
+    "static/css/main.760e8fad.chunk.css.map": "/use-deferred-value_example/static/css/main.760e8fad.chunk.css.map",
+    "static/js/2.8b6f3153.chunk.js.LICENSE": "/use-deferred-value_example/static/js/2.8b6f3153.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.210500b0.js",
+    "static/js/2.8b6f3153.chunk.js",
+    "static/css/main.760e8fad.chunk.css",
+    "static/js/main.f2beb882.chunk.js"
+  ]
+}

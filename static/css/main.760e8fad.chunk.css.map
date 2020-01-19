@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css","App.css"],"names":[],"mappings":"AAAA,KACE,QACF,CCFA,KACE,WACF,CAEA,gBACE,eACF,CAEA,MACE,oBAAqB,CACrB,gBACF","file":"main.760e8fad.chunk.css","sourcesContent":["body {\n  margin: 0;\n}\n",".App {\n  margin: 16px;\n}\n\n.wordsContainer {\n  margin-top: 24px;\n}\n\n.word {\n  display: inline-block;\n  margin-right: 8px;\n}\n"]}
