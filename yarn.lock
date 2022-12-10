@@ -8235,9 +8235,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
@@ -8946,6 +8946,11 @@ schema-utils@^2.0.0, schema-utils@^2.0.1, schema-utils@^2.1.0, schema-utils@^2.2
   dependencies:
     ajv "^6.10.2"
     ajv-keywords "^3.4.1"
+
+scrabble@^1.0.10:
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/scrabble/-/scrabble-1.0.13.tgz#07660577ff4c700ec9f4e513eacf47364e1973db"
+  integrity sha512-I0kox30SuwuLDdx4kzMi681H0E7O/WIFPfGbftv5mRC1DzKCrKAq0X6E+xmO/WNKDKh+5Ul82Bm4i69FoxX+jw==
 
 select-hose@^2.0.0:
   version "2.0.0"
@@ -10322,6 +10327,11 @@ word-wrap@~1.2.3:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.3.tgz#610636f6b1f703891bd34771ccb17fb93b47079c"
   integrity sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ==
+
+wordlist-english@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/wordlist-english/-/wordlist-english-1.2.1.tgz#7a76da3c7ac26919d80d1a54056c796830febdf7"
+  integrity sha512-vaiQQiu95UeON0WZFtiTrWfZmIiUd2rhrhMCBeEzwq3oTVzHCX8naGCqv/smSspE9kH2sN+E8lZyV0JZjqSzGw==
 
 wordwrap@~0.0.2:
   version "0.0.3"
